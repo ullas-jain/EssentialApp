@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		281172B72A3E149800775AC6 /* SharedTestHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281172B62A3E149800775AC6 /* SharedTestHelpers.swift */; };
+		281172BA2A3E14F100775AC6 /* XCTestCase+MemoryLeakTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281172B92A3E14F100775AC6 /* XCTestCase+MemoryLeakTracking.swift */; };
 		2853741E2A3AE64C009FCE8B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2853741D2A3AE64C009FCE8B /* AppDelegate.swift */; };
 		285374202A3AE64C009FCE8B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2853741F2A3AE64C009FCE8B /* SceneDelegate.swift */; };
 		285374222A3AE64C009FCE8B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285374212A3AE64C009FCE8B /* ViewController.swift */; };
@@ -51,6 +52,7 @@
 
 /* Begin PBXFileReference section */
 		281172B62A3E149800775AC6 /* SharedTestHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedTestHelpers.swift; sourceTree = "<group>"; };
+		281172B92A3E14F100775AC6 /* XCTestCase+MemoryLeakTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCTestCase+MemoryLeakTracking.swift"; sourceTree = "<group>"; };
 		2853741A2A3AE64C009FCE8B /* EssentialApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EssentialApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2853741D2A3AE64C009FCE8B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2853741F2A3AE64C009FCE8B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				281172B62A3E149800775AC6 /* SharedTestHelpers.swift */,
+				281172B92A3E14F100775AC6 /* XCTestCase+MemoryLeakTracking.swift */,
 			);
 			path = helpers;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28662B7C2A3DDEB6009D0F88 /* FeedImageDataLoaderWithFallbackCompositeTests.swift in Sources */,
+				281172BA2A3E14F100775AC6 /* XCTestCase+MemoryLeakTracking.swift in Sources */,
 				28EDC9182A3AF01100884D23 /* FeedLoaderWithFallbackCompositeTests.swift in Sources */,
 				281172B72A3E149800775AC6 /* SharedTestHelpers.swift in Sources */,
 			);
