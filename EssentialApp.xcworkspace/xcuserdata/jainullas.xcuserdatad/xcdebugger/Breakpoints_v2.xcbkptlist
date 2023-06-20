@@ -3,4 +3,129 @@
    uuid = "D76CD453-210E-4E6B-8911-87EF52F30D41"
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "EssentialAppUIAcceptanceTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 56a0ad307ddcbf40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 80e9eeb898e1ddf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3"
+                  endingLineNumber = "3"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - ab0a7da5d8d0fb3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 4fe249c7f70cc7d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.init(selector: ObjectiveC.Selector) -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3"
+                  endingLineNumber = "3"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 7d422f8c66bfedec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.__allocating_init() -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 89b17593e19b5943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.init() -&gt; EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3"
+                  endingLineNumber = "3"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "2B596489-3843-4BAF-AA1F-F545ACDED7C7 - 893e282053661af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialAppUIAcceptanceTests.EssentialAppUIAcceptanceTests.__deallocating_deinit"
+                  moduleName = "EssentialAppUIAcceptanceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jainullas/Documents/EssentialApp/EssentialApp/EssentialAppUIAcceptanceTests/EssentialAppUIAcceptanceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
